@@ -1,0 +1,100 @@
+[
+	{
+		"id": 1,
+		"name": "belgrado99",
+		"cityId": 1,
+		"countryId": 1,
+		"technologyId": 1
+	},
+	{
+		"id": 2,
+		"name": "Artist de la comunist",
+		"cityId": 8,
+		"countryId": 3,
+		"technologyId": 1
+	},
+	{
+		"id": 3,
+		"name": "Jack Sparrow",
+		"cityId": 5,
+		"countryId": 2,
+		"technologyId": 2
+	},
+	{
+		"id": 4,
+		"name": "Miroslav Lazanski",
+		"cityId": 1,
+		"countryId": 1,
+		"technologyId": 2
+	},
+	{
+		"id": 5,
+		"name": "Aleksandar Ducic",
+		"cityId": 1,
+		"countryId": 1,
+		"technologyId": 2
+	},
+	{
+		"id": 6,
+		"name": "Dusko Vujosevic",
+		"cityId": 1,
+		"countryId": 1,
+		"technologyId": 1
+	},
+	{
+		"id": 7,
+		"name": "Lala 1",
+		"cityId": 2,
+		"countryId": 1,
+		"technologyId": 1
+	},
+	{
+		"id": 8,
+		"name": "Lala 2",
+		"cityId": 2,
+		"countryId": 1,
+		"technologyId": 2
+	},
+	{
+		"id": 9,
+		"name": "Amer 1",
+		"cityId": 6,
+		"countryId": 2,
+		"technologyId": 1
+	},
+	{
+		"id": 10,
+		"name": "Amer 2",
+		"cityId": 6,
+		"countryId": 2,
+		"technologyId": 1
+	},
+	{
+		"id": 11,
+		"name": "Amer 3",
+		"cityId": 5,
+		"countryId": 2,
+		"technologyId": 2
+	},
+	{
+		"id": 12,
+		"name": "Amer 4",
+		"cityId": 7,
+		"countryId": 2,
+		"technologyId": 1
+	},
+	{
+		"id": 13,
+		"name": "Amer 5",
+		"cityId": 7,
+		"countryId": 2,
+		"technologyId": 2
+	},
+	{
+		"id": 14,
+		"name": "Amer 6",
+		"cityId": 6,
+		"countryId": 2,
+		"technologyId": 2
+	}
+]
