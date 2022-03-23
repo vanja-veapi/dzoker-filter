@@ -128,7 +128,7 @@ function renderUsers(users) {
             if (this.checked) {
                 cbCity.push(Number(this.value));
             } else {
-                let index = cbCountry.indexOf(Number(this.value));
+                let index = cbCity.indexOf(Number(this.value));
                 cbCity.splice(index, 1);
             }
 
@@ -142,7 +142,7 @@ function renderUsers(users) {
             if (this.checked) {
                 cbTechnology.push(Number(this.value));
             } else {
-                let index = cbCountry.indexOf(Number(this.value));
+                let index = cbTechnology.indexOf(Number(this.value));
                 cbTechnology.splice(index, 1);
             }
 
